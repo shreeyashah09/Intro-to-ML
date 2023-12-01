@@ -5,6 +5,7 @@ Dream Housing Finance company deals in all home loans. They have a presence acro
 The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History, and others. To automate this process, they have given a problem to identify the customer's segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
 
 Train: https://raw.githubusercontent.com/subashgandyer/datasets/main/loan_train.csv
+
 Test: https://raw.githubusercontent.com/subashgandyer/datasets/main/loan_test.csv
 
 Loan_ID : Unique Loan ID.
